@@ -1,4 +1,7 @@
 package org.PRueba;
 
+import java.util.ArrayList;
+
 public class Cofradia {
+    ArrayList<Cofrade> cofrades;
 }
